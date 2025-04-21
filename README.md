@@ -59,7 +59,7 @@ Key activities:
 
 ---
 
-## 🧠 Strategy Analysis
+## Strategy Analysis
 
 ### In Scope
 A **web-based portal** for staff, HR, and supervisors with:
@@ -68,7 +68,7 @@ A **web-based portal** for staff, HR, and supervisors with:
 - Document library  
 - Dispute submission & tracking
 
-### 🔍 AS-IS Analysis
+### AS-IS Analysis
 Manual, error-prone, and fragmented processes:
 - Timesheets via paper or Excel  
 - Disputes handled verbally/email  
