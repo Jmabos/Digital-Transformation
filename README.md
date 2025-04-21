@@ -1,4 +1,4 @@
-# Digital Transformation – Business Analyst Role on a Staff Management Portal Project
+# Digital Transformation – My Role as a Business Analyst on a Staff Management Portal Project
 
 **Excited to share a recent digital transformation project I worked on as a Business Analyst!**
 
