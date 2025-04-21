@@ -24,7 +24,6 @@ I defined:
 
 Tools and deliverables included stakeholder mapping and a detailed RACI matrix.
 
-**Stakeholder Mapping**
 ![Stakeholder Map](https://github.com/user-attachments/assets/aea22d74-60e9-4113-ae5d-3d55ffee4218)
 
 **RACI Matrix**
